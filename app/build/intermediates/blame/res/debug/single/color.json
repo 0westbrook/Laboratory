@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\program\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "D:\\program\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+    },
+    {
+        "merged": "D:\\program\\Android Studio\\Demo\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text_holo.xml",
+        "source": "D:\\program\\Android Studio\\Demo\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\19.1.0\\res\\color\\abc_search_url_text_holo.xml"
+    }
+]

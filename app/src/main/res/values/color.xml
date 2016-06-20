@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+     
+    <color name="color_bg_selected">#F7E43D</color>  
+    <color name="color_bg_normal">#e7e7e8</color>  
+    <color name="color_text_selected">#EB513A</color>  
+    <color name="color_text_normal">#14CD6F</color> 
+    
+</resources>
